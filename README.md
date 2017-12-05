@@ -1,2 +1,1 @@
-# git_test
-This is a test readme file
+This is the README file test
